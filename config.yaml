@@ -1,4 +1,4 @@
-baseURL: /acme
+baseURL: acme
 languageCode: es-es 
 title: Acme Corporation 
 theme: Eclectic 
@@ -17,10 +17,6 @@ menu:
       name: Viajes 
       url: /viajes
       weight: 10 
-    - identifier: curriculum 
-      name: Curriculum 
-      url: /curriculum
-      weight: 50 
     - identifier: about 
       name: Acerca de 
       url: /about 
