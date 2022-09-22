@@ -20,11 +20,11 @@ def cuadrado(x):
 [!Imagen](https://myoctocat.com/assets/images/base-octocat.svg)
 
 1. Diego Tejada
-1. Rubén León
+1. Miguel Arrojo
 1. Lucas Arroyo
 
 - Diego Tejada
-- Rubén León
+- Miguel Arrojo
 - Lucas Arroyo
 
 <!-- Comentario -->
