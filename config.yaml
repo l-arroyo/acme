@@ -1,12 +1,12 @@
 baseURL: acme
 languageCode: es-es 
-title: Acme Corporation 
-theme: Eclectic 
+title: ACME-CORPORATION
+theme: basico 
 author: 
   facebook: "https://facebook.com/example" 
   twitter: "https://twitter.com/example" 
   email: "contact@example.org" 
-  name: "Acme Corporation" 
+  name: "ACME-CORPORATION" 
   location: Zaragoza
   phone: (999) 999-9999 
   hours: "**Lunes-Viernes** 9:00AM - 6:00PM" 

@@ -1,7 +1,7 @@
 ---
 title: "Graus"
 date: 2022-09-22T13:00:59+02:00
-draft: true
+draft: false
 ---
 
 # Graus
