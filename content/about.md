@@ -13,6 +13,6 @@ Como profesionales del sector, nuestro objetivo principal es conseguir la mayor 
 ### Nuestra sede
 ---
 
-Puedes encontrarnos de lunes a viernes aquí:
+Nuestra sede se encuentra ubicada en el barrio de Los Enlaces, Zaragoza. Puedes encontrarnos de lunes a viernes aquí:
 
 {{< sede >}}
