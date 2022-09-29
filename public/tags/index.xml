@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Acme Corporation</title>
+    <title>Tags on ACME-CORPORATION</title>
     <link>acme/tags/</link>
-    <description>Recent content in Tags on Acme Corporation</description>
+    <description>Recent content in Tags on ACME-CORPORATION</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
-    <webMaster>contact@example.org (Acme Corporation)</webMaster><atom:link href="acme/tags/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>contact@example.org (ACME-CORPORATION)</managingEditor>
+    <webMaster>contact@example.org (ACME-CORPORATION)</webMaster><atom:link href="acme/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

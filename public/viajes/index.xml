@@ -1,30 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Viajes on Acme Corporation</title>
+    <title>Viajes on ACME-CORPORATION</title>
     <link>acme/viajes/</link>
-    <description>Recent content in Viajes on Acme Corporation</description>
+    <description>Recent content in Viajes on ACME-CORPORATION</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
-    <webMaster>contact@example.org (Acme Corporation)</webMaster>
+    <managingEditor>contact@example.org (ACME-CORPORATION)</managingEditor>
+    <webMaster>contact@example.org (ACME-CORPORATION)</webMaster>
     <lastBuildDate>Thu, 22 Sep 2022 13:01:08 +0200</lastBuildDate><atom:link href="acme/viajes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sagunto</title>
       <link>acme/viajes/sagunto/</link>
       <pubDate>Thu, 22 Sep 2022 13:01:08 +0200</pubDate>
-      <author>contact@example.org (Acme Corporation)</author>
+      <author>contact@example.org (ACME-CORPORATION)</author>
       <guid>acme/viajes/sagunto/</guid>
-      <description>Sagunto Visita a Sagunto 11/09/2022 Por Lucas Arroyo La playa del Puerto de Sagunto se encuentra al noreste del puerto marítimo de Sagunto en Valencia, España. Es de arena fina, y el puerto le sirve de contención de los vientos del sur. En su entorno posee una zona de dunas firmemente fijadas por vegetación y cañaverales.</description>
+      <description>Sagunto Visita a Sagunto 11/09/2022 Por Lucas Arroyo La playa del Puerto de Sagunto se encuentra al noreste del puerto marítimo de Sagunto en Valencia, España. Es de arena fina, y el puerto le sirve de contención de los vientos del sur. En su entorno posee una zona de dunas firmemente fijadas por vegetación y cañaverales.
+Puedes reservar tu visita a Sagunto en nuestras oficinas u online.</description>
+    </item>
+    
+    <item>
+      <title>Graus</title>
+      <link>acme/viajes/graus/</link>
+      <pubDate>Thu, 22 Sep 2022 13:00:59 +0200</pubDate>
+      <author>contact@example.org (ACME-CORPORATION)</author>
+      <guid>acme/viajes/graus/</guid>
+      <description>Graus Visita a Graus Por Lucas Arroyo Graus es una localidad y municipio español de la provincia de Huesca, en Aragón. Con una población de 3434 habitantes (INE 2021), se sitúa en la comarca de Ribagorza, de la que es capital, en la confluencia de los ríos Ésera e Isábena. La localidad se encuentra en una de las zonas donde se conserva como lengua el aragonés, en concreto en su variante bajorribagorzana (grausino).</description>
     </item>
     
     <item>
       <title>Malaga</title>
       <link>acme/viajes/malaga/</link>
       <pubDate>Wed, 21 Sep 2022 07:35:32 +0200</pubDate>
-      <author>contact@example.org (Acme Corporation)</author>
+      <author>contact@example.org (ACME-CORPORATION)</author>
       <guid>acme/viajes/malaga/</guid>
-      <description>Málaga Viaje a Málaga 30/07/2022 - 6/08/2022 Por Lucas Arroyo Málaga es una ciudad portuaria en la Costa del Sol, en el sur de España, conocida por sus hoteles de muchos pisos y los centros turísticos que sobresalen de sus playas de arena amarilla.</description>
+      <description>Málaga Viaje a Málaga 30/07/2022 - 6/08/2022 Por Lucas Arroyo Málaga es una ciudad portuaria en la Costa del Sol, en el sur de España, conocida por sus hoteles de muchos pisos y los centros turísticos que sobresalen de sus playas de arena amarilla.
+Puedes reservar tu visita a Málaga en nuestras oficinas u online.</description>
     </item>
     
   </channel>
