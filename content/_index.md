@@ -7,4 +7,4 @@ draft: false
 
 ![Azafatos avión](https://quo.eldiario.es/wp-content/uploads/2019/10/las-azafatas-de-avion-tienen-mas-riesgo-de-cancer.jpg)
 
-Este es nuestro sitio web oficial.
+Este es nuestro sitio web oficial. Aquí podrás visualizar las entradas de nuestro blog, así como información acerca de la empresa.
