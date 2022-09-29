@@ -6,7 +6,7 @@ draft: false
 
 **ACME Corporation** es una empresa que se dedica en exclusiva al ejercicio de mediación y organización de servicios turísticos a nivel nacional.
 
-Nuestro objetivo principal es conseguir la mayor satisfacción de los clientes que demandan servicios turísticos de calidad, así como asegurarnos de que se cubren todas sus necesidades y motivaciones.
+Como profesionales del sector, nuestro objetivo principal es conseguir la mayor satisfacción de los clientes que demandan servicios turísticos de calidad, así como asegurarnos de que se cubren todas sus necesidades y expectativas.
 
 ![Foto stock jefe](https://st2.depositphotos.com/1518767/6900/i/950/depositphotos_69006693-stock-photo-boss-standing-with-arms-crossed.jpg)
 

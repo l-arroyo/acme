@@ -12,10 +12,10 @@ Para cualquier pregunta o consulta puedes contactar con nosotros a través del f
 ### ¿Cómo puedo presentar una reclamación?
 ---
 
-Podrás reclamar a través de nuestro Dpto. de Atención al Cliente a través del siguiente correo electrónico: clientes@acmecorporation.com
+Podrás reclamar a través de nuestro Dpto. de Atención al Cliente a través del siguiente correo electrónico: *clientes@acmecorporation.com*.
 
 ### Formulario
 
-También puedes rellenar el siguiente formulario y nosotros nos pondremos en contacto contigo en un plazo máximo de 72 horas:
+Si necesitas una comunicación más rápida, puedes rellenar el siguiente formulario y nosotros nos pondremos en contacto contigo en un plazo máximo de 72 horas:
 
 {{< formulario >}}
