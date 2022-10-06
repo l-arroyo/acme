@@ -13,3 +13,6 @@ draft: false
 **Graus** es una localidad y municipio español de la provincia de Huesca, en Aragón. Con una población de 3434 habitantes (INE 2021), se sitúa en la comarca de Ribagorza, de la que es capital, en la confluencia de los ríos Ésera e Isábena. La localidad se encuentra en una de las zonas donde se conserva como lengua el aragonés, en concreto en su variante bajorribagorzana (grausino).
 
 Puedes reservar tu visita a Graus en nuestras oficinas u online.
+
+### ¿Has visitado el sitio? ¡Sube tus propias imágenes!
+{{< archivo >}}
