@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Centros on ACME-CORPORATION</title>
+    <link>acme/centros/</link>
+    <description>Recent content in Centros on ACME-CORPORATION</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <managingEditor>contact@example.org (ACME-CORPORATION)</managingEditor>
+    <webMaster>contact@example.org (ACME-CORPORATION)</webMaster>
+    <lastBuildDate>Thu, 06 Oct 2022 10:31:22 +0200</lastBuildDate><atom:link href="acme/centros/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Institutos</title>
+      <link>acme/centros/institutos/</link>
+      <pubDate>Thu, 06 Oct 2022 10:31:22 +0200</pubDate>
+      <author>contact@example.org (ACME-CORPORATION)</author>
+      <guid>acme/centros/institutos/</guid>
+      <description>Listado de los Institutos de Secundaria de Zaragoza: </description>
+    </item>
+    
+  </channel>
+</rss>

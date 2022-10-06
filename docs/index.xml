@@ -1,33 +1,87 @@
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Acme Corporation</title>
-    <link>https://example.org/</link>
-    <description>Recent content on Acme Corporation</description>
+    <title>ACME-CORPORATION</title>
+    <link>acme/</link>
+    <description>Recent content on ACME-CORPORATION</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
-    <webMaster>contact@example.org (Acme Corporation)</webMaster>
-    <lastBuildDate>Wed, 21 Sep 2022 07:35:32 +0200</lastBuildDate>
+    <managingEditor>contact@example.org (ACME-CORPORATION)</managingEditor>
+    <webMaster>contact@example.org (ACME-CORPORATION)</webMaster>
+    <lastBuildDate>Mon, 26 Sep 2022 09:11:55 +0200</lastBuildDate>
     
-        <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="acme/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+<title>Institutos</title>
+<link>acme/centros/institutos/</link>
+<pubDate>Thu, 06 Oct 2022 10:31:22 +0200</pubDate>
+      <author>contact@example.org (ACME-CORPORATION)</author>
+      <guid>acme/centros/institutos/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>Películas</title>
+<link>acme/peliculas/pelis/</link>
+<pubDate>Mon, 03 Oct 2022 09:42:24 +0200</pubDate>
+      <author>contact@example.org (ACME-CORPORATION)</author>
+      <guid>acme/peliculas/pelis/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>Sagunto</title>
+<link>acme/viajes/sagunto/</link>
+<pubDate>Thu, 22 Sep 2022 13:01:08 +0200</pubDate>
+      <author>contact@example.org (ACME-CORPORATION)</author>
+      <guid>acme/viajes/sagunto/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>Graus</title>
+<link>acme/viajes/graus/</link>
+<pubDate>Thu, 22 Sep 2022 13:00:59 +0200</pubDate>
+      <author>contact@example.org (ACME-CORPORATION)</author>
+      <guid>acme/viajes/graus/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>Acerca de</title>
+<link>acme/about/</link>
+<pubDate>Thu, 22 Sep 2022 12:55:51 +0200</pubDate>
+      <author>contact@example.org (ACME-CORPORATION)</author>
+      <guid>acme/about/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>Contacto</title>
+<link>acme/contacto/</link>
+<pubDate>Thu, 22 Sep 2022 12:54:55 +0200</pubDate>
+      <author>contact@example.org (ACME-CORPORATION)</author>
+      <guid>acme/contacto/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
 <title>Malaga</title>
-<link>https://example.org/viajes/malaga/</link>
+<link>acme/viajes/malaga/</link>
 <pubDate>Wed, 21 Sep 2022 07:35:32 +0200</pubDate>
-      <author>contact@example.org (Acme Corporation)</author>
-      <guid>https://example.org/viajes/malaga/</guid>
+      <author>contact@example.org (ACME-CORPORATION)</author>
+      <guid>acme/viajes/malaga/</guid>
 <description></description>
 <category></category></item>
     
     <item>
 <title></title>
-<link>https://example.org/textmarkdown/</link>
+<link>acme/textmarkdown/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@example.org (Acme Corporation)</author>
-      <guid>https://example.org/textmarkdown/</guid>
+      <author>contact@example.org (ACME-CORPORATION)</author>
+      <guid>acme/textmarkdown/</guid>
 <description></description>
 <category></category></item>
     
