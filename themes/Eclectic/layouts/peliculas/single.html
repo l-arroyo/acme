@@ -1,0 +1,52 @@
+{{ define "main" }}
+
+<style>
+
+    .contenedor {
+
+        margin: auto;
+        width: 60%;
+
+    }
+
+    .img-pelicula {
+
+        width: 6em;
+
+    }
+
+    .titulo-pelicula {
+
+        font-size: 150%;
+        font-style: normal;
+        color: black;
+        margin-left: 2em;
+
+
+    }
+
+    .titulo-pelicula:hover {
+
+        font-style: italic;
+
+    }
+
+</style>
+
+<div class="contenedor">
+    <h1 class="titulo">{{ .Title }}</h1>
+
+    {{ .Content }}
+
+    <hr>
+    <table>
+    {{ range .Site.Data.datos_pelis }}
+        <tr>
+            <td><a class="contenedor-img"><img class="img-pelicula" src="{{ .img }}" alt="{{ .titulo }}"></a></td>
+            <td><a class="titulo-pelicula" href="https://www.imdb.com/{{ .url }}">{{ .titulo }}</a></td>
+        </tr>
+    {{ end }}
+    </table>
+
+</div>
+{{ end }}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peliculas on ACME-CORPORATION</title>
+    <link>acme/peliculas/</link>
+    <description>Recent content in Peliculas on ACME-CORPORATION</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <managingEditor>contact@example.org (ACME-CORPORATION)</managingEditor>
+    <webMaster>contact@example.org (ACME-CORPORATION)</webMaster>
+    <lastBuildDate>Mon, 03 Oct 2022 09:42:24 +0200</lastBuildDate><atom:link href="acme/peliculas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Películas</title>
+      <link>acme/peliculas/pelis/</link>
+      <pubDate>Mon, 03 Oct 2022 09:42:24 +0200</pubDate>
+      <author>contact@example.org (ACME-CORPORATION)</author>
+      <guid>acme/peliculas/pelis/</guid>
+      <description>Las mejores películas Datos de imdb.com </description>
+    </item>
+    
+  </channel>
+</rss>
