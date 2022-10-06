@@ -29,6 +29,10 @@ menu:
       name: Pelis
       url: /peliculas/pelis
       weight: 250
+    - identifier: centros
+      name: Institutos
+      url: /centros/institutos
+      weight: 300
 
 params: 
   color: "#4f46e5"
