@@ -1,3 +1,17 @@
+{{ define "main" }}
+
+<style>
+
+    .contenedor {
+
+        margin: auto;
+        width: 60%;
+        font-size: 120%;
+        margin-bottom: 5em;
+
+    }
+
+</style>
 <div class="contenedor">
     <h1 class="titulo">{{ .Title }}</h1>
     {{ .Content }}
@@ -11,5 +25,5 @@
         {{ index $r 5}} ({{ index $r 2 }})<br>
     {{ end }}
     {{ end }}
-    
 </div>
+{{ end }}
